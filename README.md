@@ -3,14 +3,15 @@ Aplikasi Sederhana untuk mengelola uang kas sekaligus pengeluarannya.
 Aplikasi ini hanya dapat menghandle satu kelas saja.
 Meskipun begitu, tapi aplikasi ini sangat praktis dan tetap optimal dengan bisa menghandle uang kas dalam beberapa tahun serta menyediakan fitur-fitur yang sangat dibutuhkan seperti: riwayat pembayaran dan pengeluaran, laporan hasil perbulan dan lain-lain. 
 
-Cara memasangnya:
+Cara pengaplikasian:
 1. Download ZIP file ini
-2. Ekstrak pada htdocs
-3. Buka phpMyAdmin
-4. Buat database dengan nama: uang_kas
-5. Import file uang_kas.sql pada folder yang di ekstrak tadi
-6. Buka localhost/uang_kas
-7. Selesai
+2. Ekstrak pada sub-file htdocs yang ada pada file xampp
+3. Buka XAMPP, nyalakan Apache dan MySQL saja
+4. Buka phpMyAdmin
+5. Buat new file dengan database dengan nama: uang_kas
+6. Import file uang_kas.sql pada folder yang di ekstrak tadi ke phpMyAdmin
+7. Buka localhost/uang_kas
+8. Selesai
 
 Akun:
 
