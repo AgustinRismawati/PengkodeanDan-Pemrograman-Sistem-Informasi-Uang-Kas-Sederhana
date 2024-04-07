@@ -118,3 +118,7 @@ Cash History:
 Cash Disbursement History:
 ![Screenshot 2024-03-30 141333](https://github.com/AgustinRismawati/PengkodeanDan-Pemrograman-Sistem-Informasi-Uang-Kas-Sederhana/assets/165427333/05c7e282-357a-44e2-a7ae-cacc0f18e5ed)
 
+
+# ERD Setelah di Modifikasi
+![image](https://github.com/AgustinRismawati/PengkodeanDan-Pemrograman-Sistem-Informasi-Uang-Kas-Sederhana/assets/165427333/80497c40-9d32-495c-89b6-6ab5bd5a2c5b)
+
