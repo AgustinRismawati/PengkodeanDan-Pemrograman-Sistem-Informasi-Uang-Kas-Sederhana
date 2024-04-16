@@ -121,5 +121,5 @@ Cash Disbursement History:
 
 
 # ERD Sistem Informasi Uang Kas Sederhana
-![image](https://github.com/AgustinRismawati/PengkodeanDan-Pemrograman-Sistem-Informasi-Uang-Kas-Sederhana/assets/165427333/80497c40-9d32-495c-89b6-6ab5bd5a2c5b)
+![image](https://github.com/AgustinRismawati/PengkodeanDan-Pemrograman-Sistem-Informasi-Uang-Kas-Sederhana/assets/165427333/35995828-026f-49a9-bf33-bc93a16090a5)
 
